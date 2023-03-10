@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.list-item-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  list-style-type: none;
+}
